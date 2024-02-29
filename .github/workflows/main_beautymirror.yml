@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'beautymirror'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B620B38F41B416593593E1D3EE43C72 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FBC49D41FC0145EBABD60BE8CCF3A95D }}
